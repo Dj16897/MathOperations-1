@@ -28,7 +28,7 @@
         sum += numb
     }
     
-    print("adding \(num1) and \(num2) gives: \(sum)")
+    print("adding gives: \(sum)")
 
     return sum
 }
